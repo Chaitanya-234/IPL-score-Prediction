@@ -26,50 +26,6 @@ This project uses **machine learning & data analytics** to predict the score of 
 
 ---
 
-## 📂 Project Structure
-
-```
-ipl-score-prediction/
-│
-├── data/                 # Raw & cleaned IPL datasets
-├── notebooks/            # Jupyter notebooks for EDA & experiments
-├── models/               # Trained ML models
-├── app/                  # Streamlit/Flask app files
-├── requirements.txt      # Python dependencies
-├── README.md             # You are here 😎
-└── main.py               # Entry point for predictions
-```
-
----
-
-## 🚀 Getting Started
-
-### 1️⃣ Clone the repo
-
-```bash
-git clone https://github.com/yourusername/ipl-score-prediction.git
-cd ipl-score-prediction
-```
-
-### 2️⃣ Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ Run the predictor
-
-```bash
-python main.py
-```
-
-Or launch the web app:
-
-```bash
-streamlit run app/app.py
-```
-
----
 
 ## 📊 Dataset
 
